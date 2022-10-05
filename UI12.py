@@ -10,7 +10,7 @@ import pickle
 import streamlit as sl
 
 from urllib.request import urlopen
-pickle_in=pickle.load(urlopen("https://github.com/sanjay-906/Diabetes_Predicter/blob/main/UI1.py",'rb'))
+pickle_in=pickle.load(urlopen("https://github.com/sanjay-906/Diabetes_Predicter/blob/main/logreg.sav",'rb'))
 #pickle_in=open("https://github.com/sanjay-906/Diabetes_Predicter/blob/main/logreg.sav","rb")
 model2=pickle.load(pickle_in)
 
