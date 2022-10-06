@@ -6,8 +6,8 @@ Created on Thu Oct  6 11:35:14 2022
 """
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+#import matplotlib.pyplot as plt
+#import seaborn as sns
 import streamlit as sl  
 
 from sklearn.linear_model import LogisticRegression
