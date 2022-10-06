@@ -9,7 +9,7 @@ import numpy as np
 import pickle
 import streamlit as sl
 
-pickle_in=open("D:\diabetes prediction\logreg.sav","rb")
+pickle_in=open("logreg.sav","rb")
 model2=pickle.load(pickle_in)
 
 def compute(input_values):
