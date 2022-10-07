@@ -5,7 +5,7 @@ This repository contains all the code files for the diabetes predicter ML model
 
 DATASET : https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
 
-MODEL ->  https://sanjay-906-diabetes-predictor-ui-99sdxz.streamlitapp.com/
+MODEL -> https://sanjay-906-diabetes-predictor-deployed-ui-fbxqyx.streamlitapp.com/
 
 
 NOTE:
