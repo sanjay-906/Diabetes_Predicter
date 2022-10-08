@@ -3,10 +3,8 @@ This repository contains all the code files for the diabetes predicter ML model
 
 
 
-DATASET : https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
-
-MODEL -> https://sanjay-906-diabetes-predictor-deployed-ui-fbxqyx.streamlitapp.com/
-MODEL: <a href="/https://sanjay-906-diabetes-predictor-deployed-ui-fbxqyx.streamlitapp.com/">Click Here</a>
+DATASET : <a href="https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0" target="_blank">Click Here</a>
+MODEL   : <a href="https://sanjay-906-diabetes-predictor-deployed-ui-fbxqyx.streamlitapp.com" target="_blank">Click Here</a>
 
 NOTE:
 
