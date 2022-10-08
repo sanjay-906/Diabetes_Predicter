@@ -5,7 +5,7 @@ This repository contains all the code files for the diabetes predicter ML model
 
 DATASET : <a href="https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0" target="_blank">Click Here</a><br>
 MODEL   : <a href="https://sanjay-906-diabetes-predictor-deployed-ui-fbxqyx.streamlitapp.com" target="_blank">Click Here</a>
-
+<button class="btn btn-success" onclick=" window.open('https://sanjay-906-diabetes-predictor-deployed-ui-fbxqyx.streamlitapp.com','_blank')">Click</button>
 NOTE:
 
 Logistic Regression Algorithm is used to train the model<br>
