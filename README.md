@@ -1,5 +1,5 @@
 # Diabetes_Predicter
-This repository contains all the code files for the diabetes predicter ML model
+This repository contains all the code files for the diabetes predicter ML model<br>
 There are some issues in this model, the updated/final version is stored in repository "Diabetes_Predictor_Deployed"
 
 
